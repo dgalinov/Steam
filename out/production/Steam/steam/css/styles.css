@@ -1,0 +1,22 @@
+.backgroundColor {
+    -fx-background-color: #171a21;
+
+}
+.registerButton {
+    -fx-text-fill: white;
+    -fx-font-family: "Century Gothic";
+    -fx-background-color: #1b2838;
+}
+.titleColor {
+    -fx-text-fill: white;
+    -fx-font-family: "Century Gothic";
+}
+.textFormat {
+    -fx-text-fill: white;
+    -fx-font-family: "Century Gothic";
+}
+.textArea {
+    -fx-background-color: #22394e;
+    -fx-text-fill: white;
+    -fx-font-family: "Century Gothic";
+}

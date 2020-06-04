@@ -1,0 +1,1320 @@
+jun 03, 2020 10:44:32 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 10:44:32 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 10:44:32 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Camper_ID:[2]-> Mostrado el primer registro.
+jun 03, 2020 10:44:35 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 10:44:36 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 10:44:36 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Camper_ID:[5]-> Mostrado el anterior registro.
+jun 03, 2020 10:44:37 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Camper_ID:[2]-> Mostrado el anterior registro.
+jun 03, 2020 10:44:37 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Camper_ID:[3]-> Mostrado el anterior registro.
+jun 03, 2020 10:44:37 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Camper_ID:[4]-> Mostrado el anterior registro.
+jun 03, 2020 10:44:37 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 10:44:38 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 10:44:38 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 10:44:38 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 10:44:38 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 10:44:39 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Camper_ID:[1]-> Mostrado el anterior registro.
+jun 03, 2020 10:44:39 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Camper_ID:[5]-> Mostrado el anterior registro.
+jun 03, 2020 10:44:39 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Camper_ID:[2]-> Mostrado el anterior registro.
+jun 03, 2020 10:44:39 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Camper_ID:[3]-> Mostrado el anterior registro.
+jun 03, 2020 10:44:40 AM steam.controller.SteamController onClickNuevo
+INFORMACIÓN: CREATE, Camper_ID:[3]
+jun 03, 2020 10:44:43 AM steam.controller.SteamController onClickCancelar
+INFORMACIÓN: CANCELED, Camper_ID:[3]-> Cancelado por el usuario.
+jun 03, 2020 10:44:43 AM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Camper_ID:[3]
+jun 03, 2020 10:45:07 AM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Camper_ID:[3]
+jun 03, 2020 10:45:07 AM steam.controller.SteamController onClickEditar
+ADVERTENCIA: ERROR, Camper_ID:[3]-> registro no editable
+jun 03, 2020 10:45:15 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 10:45:16 AM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Camper_ID:[2]
+jun 03, 2020 10:45:16 AM steam.controller.SteamController onClickEditar
+ADVERTENCIA: ERROR, Camper_ID:[2]-> registro no editable
+jun 03, 2020 10:45:21 AM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Camper_ID:[2]
+jun 03, 2020 10:45:21 AM steam.controller.SteamController onClickEditar
+ADVERTENCIA: ERROR, Camper_ID:[2]-> registro no editable
+jun 03, 2020 10:45:22 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 10:45:23 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 10:45:23 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 10:45:24 AM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Camper_ID:[4]
+jun 03, 2020 10:45:26 AM steam.controller.SteamController onClickCancelar
+INFORMACIÓN: CANCELED, Camper_ID:[4]-> Cancelado por el usuario.
+jun 03, 2020 10:45:26 AM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Camper_ID:[4]
+jun 03, 2020 10:45:29 AM steam.controller.SteamController onClickNuevo
+INFORMACIÓN: CREATE, Camper_ID:[4]
+jun 03, 2020 10:45:34 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 10:56:51 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 10:56:51 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 10:56:51 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Camper_ID:[2]-> Mostrado el primer registro.
+jun 03, 2020 10:56:54 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 10:56:54 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 10:56:55 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 10:56:55 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 10:56:55 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 10:56:55 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 10:56:56 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 10:56:56 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Camper_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 10:56:57 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 11:09:15 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 11:09:15 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 11:09:15 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el primer registro.
+jun 03, 2020 11:09:19 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:09:19 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:09:20 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:09:21 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 11:12:30 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 11:13:57 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 11:14:19 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 11:14:19 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 11:14:19 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el primer registro.
+jun 03, 2020 11:14:32 AM steam.controller.SteamController setOrderByName
+INFORMACIÓN: ORDENACIÓN, Steam_ID:[1]-> Se ha ordenado el catálogo por Nombre.
+jun 03, 2020 11:14:32 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el primer registro.
+jun 03, 2020 11:14:34 AM steam.controller.SteamController setOrderByID
+INFORMACIÓN: ORDENACIÓN, Steam_ID:[1]-> Se ha ordenado el catálogo por ID.
+jun 03, 2020 11:14:35 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el primer registro.
+jun 03, 2020 11:14:36 AM steam.controller.SteamController setOrderByPrice
+INFORMACIÓN: ORDENACIÓN, Steam_ID:[2]-> Se ha ordenado el catálogo por Precio.
+jun 03, 2020 11:14:36 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el primer registro.
+jun 03, 2020 11:14:38 AM steam.controller.SteamController setOrderByID
+INFORMACIÓN: ORDENACIÓN, Steam_ID:[1]-> Se ha ordenado el catálogo por ID.
+jun 03, 2020 11:14:38 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el primer registro.
+jun 03, 2020 11:14:42 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:14:43 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el anterior registro.
+jun 03, 2020 11:14:44 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:14:44 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:14:45 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el anterior registro.
+jun 03, 2020 11:14:46 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 11:21:11 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 11:21:11 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 11:21:11 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el primer registro.
+jun 03, 2020 11:21:16 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:21:16 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:21:17 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:21:17 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:28:58 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 11:31:31 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 11:31:31 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 11:31:31 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el primer registro.
+jun 03, 2020 11:31:48 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el anterior registro.
+jun 03, 2020 11:31:49 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:31:57 AM steam.controller.SteamController onClickNuevo
+INFORMACIÓN: CREATE, Steam_ID:[2]
+jun 03, 2020 11:31:59 AM steam.controller.SteamController onClickCancelar
+INFORMACIÓN: CANCELED, Steam_ID:[2]-> Cancelado por el usuario.
+jun 03, 2020 11:31:59 AM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Steam_ID:[2]
+jun 03, 2020 11:32:00 AM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Steam_ID:[2]
+jun 03, 2020 11:32:00 AM steam.controller.SteamController onClickEditar
+ADVERTENCIA: ERROR, Steam_ID:[2]-> registro no editable
+jun 03, 2020 11:32:04 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:32:05 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:32:06 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 11:32:49 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 11:32:49 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 11:32:49 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 03, 2020 11:32:50 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:32:51 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:32:52 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:32:52 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:32:52 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:32:53 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el anterior registro.
+jun 03, 2020 11:32:53 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el anterior registro.
+jun 03, 2020 11:32:54 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:32:54 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el anterior registro.
+jun 03, 2020 11:32:56 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 11:33:49 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 11:33:49 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 11:33:49 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 03, 2020 11:33:52 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el anterior registro.
+jun 03, 2020 11:33:53 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:33:53 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:33:54 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:33:55 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el anterior registro.
+jun 03, 2020 11:33:55 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 03, 2020 11:33:56 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:33:56 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 11:36:09 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 11:36:09 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 11:36:09 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 03, 2020 11:36:25 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:26 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:26 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:27 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:27 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:27 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:27 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:28 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:28 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:28 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:28 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:28 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:28 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:30 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:30 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:30 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:30 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:31 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:31 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:31 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:32 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:32 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:36 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:37 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el anterior registro.
+jun 03, 2020 11:36:38 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:38 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:38 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:39 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:39 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:39 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:40 AM steam.controller.SteamController setOrderByID
+INFORMACIÓN: ORDENACIÓN, Steam_ID:[4]-> Se ha ordenado el catálogo por ID.
+jun 03, 2020 11:36:40 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el primer registro.
+jun 03, 2020 11:36:42 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:42 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:43 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:44 AM steam.controller.SteamController setOrderByName
+INFORMACIÓN: ORDENACIÓN, Steam_ID:[2]-> Se ha ordenado el catálogo por Nombre.
+jun 03, 2020 11:36:44 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 03, 2020 11:36:46 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:46 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:46 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:47 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:49 AM steam.controller.SteamController setOrderByPrice
+INFORMACIÓN: ORDENACIÓN, Steam_ID:[4]-> Se ha ordenado el catálogo por Precio.
+jun 03, 2020 11:36:49 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el primer registro.
+jun 03, 2020 11:36:51 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:51 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:51 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:51 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:51 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:52 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:36:53 AM steam.controller.SteamController onClickNuevo
+INFORMACIÓN: CREATE, Steam_ID:[1]
+jun 03, 2020 11:39:25 AM steam.controller.SteamController onClickGuardar
+INFORMACIÓN: FINE, Steam_ID:[6]-> Registro creado correctamente
+jun 03, 2020 11:39:25 AM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Steam_ID:[6]
+jun 03, 2020 11:39:31 AM steam.controller.SteamController setOrderByID
+INFORMACIÓN: ORDENACIÓN, Steam_ID:[6]-> Se ha ordenado el catálogo por ID.
+jun 03, 2020 11:39:31 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el primer registro.
+jun 03, 2020 11:39:32 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:39:33 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:39:33 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:39:33 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:39:34 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[6]-> Mostrado el siguiente registro.
+jun 03, 2020 11:39:34 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:39:35 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[6]-> Mostrado el anterior registro.
+jun 03, 2020 11:39:49 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el anterior registro.
+jun 03, 2020 11:39:49 AM steam.controller.SteamController onClickBorrar
+INFORMACIÓN: DELETE, Steam_ID:[4]
+jun 03, 2020 11:40:01 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:40:02 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el anterior registro.
+jun 03, 2020 11:40:02 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el anterior registro.
+jun 03, 2020 11:40:03 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:40:03 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:40:03 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:40:03 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:40:04 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el anterior registro.
+jun 03, 2020 11:40:04 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 03, 2020 11:40:04 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el anterior registro.
+jun 03, 2020 11:40:04 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el anterior registro.
+jun 03, 2020 11:40:05 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:40:05 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:40:05 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:40:05 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:40:05 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:40:06 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:40:06 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 11:54:37 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 11:54:37 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 11:54:37 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 03, 2020 11:54:40 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:41 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:41 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:41 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:42 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:42 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:42 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:42 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:42 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:43 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:43 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:43 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:44 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:45 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:45 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:45 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:45 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:45 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:45 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:48 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:49 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:49 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:49 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:49 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:49 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:50 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 11:54:51 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 12:18:29 PM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 12:18:29 PM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 12:18:30 PM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 03, 2020 12:18:34 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 12:18:34 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 12:18:35 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el anterior registro.
+jun 03, 2020 12:18:35 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 03, 2020 12:19:10 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:10 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:10 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:11 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el anterior registro.
+jun 03, 2020 12:19:11 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el anterior registro.
+jun 03, 2020 12:19:11 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 03, 2020 12:19:11 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el anterior registro.
+jun 03, 2020 12:19:11 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el anterior registro.
+jun 03, 2020 12:19:12 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:12 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:12 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:12 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:13 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el anterior registro.
+jun 03, 2020 12:19:13 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 03, 2020 12:19:13 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el anterior registro.
+jun 03, 2020 12:19:13 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el anterior registro.
+jun 03, 2020 12:19:20 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:20 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:21 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:21 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:21 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:21 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:21 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:22 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 12:19:25 PM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 4:10:42 PM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 4:10:42 PM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 4:10:42 PM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 03, 2020 4:10:45 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:10:46 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 4:10:46 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:10:47 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:10:55 PM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 4:12:00 PM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 4:12:00 PM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 4:12:00 PM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 03, 2020 4:12:02 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:03 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:03 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:03 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:04 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:04 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:04 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:05 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:05 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:05 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:06 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:06 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:06 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:06 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:06 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:06 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:07 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:07 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:10 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:11 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:11 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:12 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:13 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:13 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:13 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:13 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:13 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:17 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:17 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:17 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:18 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:18 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 03, 2020 4:12:19 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el anterior registro.
+jun 03, 2020 4:12:19 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el anterior registro.
+jun 03, 2020 4:12:19 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el anterior registro.
+jun 03, 2020 4:12:19 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:20 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:20 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:20 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:20 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:23 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:23 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:23 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:12:25 PM steam.controller.SteamController onClickNuevo
+INFORMACIÓN: CREATE, Steam_ID:[5]
+jun 03, 2020 4:12:26 PM steam.controller.SteamController onClickCancelar
+INFORMACIÓN: CANCELED, Steam_ID:[5]-> Cancelado por el usuario.
+jun 03, 2020 4:12:26 PM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Steam_ID:[5]
+jun 03, 2020 4:12:27 PM steam.controller.SteamController onClickNuevo
+INFORMACIÓN: CREATE, Steam_ID:[5]
+jun 03, 2020 4:12:28 PM steam.controller.SteamController onClickCancelar
+INFORMACIÓN: CANCELED, Steam_ID:[5]-> Cancelado por el usuario.
+jun 03, 2020 4:12:28 PM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Steam_ID:[5]
+jun 03, 2020 4:12:29 PM steam.controller.SteamController onClickNuevo
+INFORMACIÓN: CREATE, Steam_ID:[5]
+jun 03, 2020 4:12:30 PM steam.controller.SteamController onClickCancelar
+INFORMACIÓN: CANCELED, Steam_ID:[5]-> Cancelado por el usuario.
+jun 03, 2020 4:12:30 PM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Steam_ID:[5]
+jun 03, 2020 4:12:30 PM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Steam_ID:[5]
+jun 03, 2020 4:12:30 PM steam.controller.SteamController onClickEditar
+ADVERTENCIA: ERROR, Steam_ID:[5]-> registro no editable
+jun 03, 2020 4:12:33 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:15:40 PM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 4:15:57 PM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 4:15:57 PM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 4:15:57 PM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 03, 2020 4:16:02 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:16:02 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el siguiente registro.
+jun 03, 2020 4:16:03 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:16:03 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:16:03 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:16:04 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el anterior registro.
+jun 03, 2020 4:16:04 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el anterior registro.
+jun 03, 2020 4:16:04 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[4]-> Mostrado el anterior registro.
+jun 03, 2020 4:16:12 PM steam.controller.SteamController onClickNuevo
+INFORMACIÓN: CREATE, Steam_ID:[4]
+jun 03, 2020 4:16:13 PM steam.controller.SteamController onClickCancelar
+INFORMACIÓN: CANCELED, Steam_ID:[4]-> Cancelado por el usuario.
+jun 03, 2020 4:16:13 PM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Steam_ID:[4]
+jun 03, 2020 4:16:14 PM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Steam_ID:[4]
+jun 03, 2020 4:16:15 PM steam.controller.SteamController onClickCancelar
+INFORMACIÓN: CANCELED, Steam_ID:[4]-> Cancelado por el usuario.
+jun 03, 2020 4:16:15 PM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Steam_ID:[4]
+jun 03, 2020 4:16:16 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 03, 2020 4:16:16 PM steam.controller.SteamController onClickBorrar
+INFORMACIÓN: DELETE, Steam_ID:[5]
+jun 03, 2020 4:16:24 PM steam.controller.SteamController onClickNuevo
+INFORMACIÓN: CREATE, Steam_ID:[5]
+jun 03, 2020 4:16:57 PM steam.controller.SteamController onClickGuardar
+INFORMACIÓN: FINE, Steam_ID:[6]-> Registro creado correctamente
+jun 03, 2020 4:16:57 PM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Steam_ID:[6]
+jun 03, 2020 4:17:01 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el anterior registro.
+jun 03, 2020 4:17:01 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el anterior registro.
+jun 03, 2020 4:17:02 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el anterior registro.
+jun 03, 2020 4:17:02 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:17:02 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:17:02 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[6]-> Mostrado el siguiente registro.
+jun 03, 2020 4:17:02 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:17:03 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[6]-> Mostrado el anterior registro.
+jun 03, 2020 4:17:04 PM steam.controller.SteamController setOrderByID
+INFORMACIÓN: ORDENACIÓN, Steam_ID:[6]-> Se ha ordenado el catálogo por ID.
+jun 03, 2020 4:17:04 PM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el primer registro.
+jun 03, 2020 4:17:06 PM steam.controller.SteamController setOrderByName
+INFORMACIÓN: ORDENACIÓN, Steam_ID:[5]-> Se ha ordenado el catálogo por Nombre.
+jun 03, 2020 4:17:06 PM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 03, 2020 4:17:09 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:17:09 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:17:10 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:17:28 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[6]-> Mostrado el siguiente registro.
+jun 03, 2020 4:17:28 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:17:28 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[6]-> Mostrado el anterior registro.
+jun 03, 2020 4:17:29 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el anterior registro.
+jun 03, 2020 4:17:29 PM steam.controller.SteamController onClickBorrar
+INFORMACIÓN: DELETE, Steam_ID:[2]
+jun 03, 2020 4:22:54 PM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Steam_ID:[2]
+jun 03, 2020 4:22:54 PM steam.controller.SteamController onClickEditar
+ADVERTENCIA: ERROR, Steam_ID:[2]-> registro no editable
+jun 03, 2020 4:22:56 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:22:56 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:22:57 PM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Steam_ID:[5]
+jun 03, 2020 4:22:57 PM steam.controller.SteamController onClickEditar
+ADVERTENCIA: ERROR, Steam_ID:[5]-> registro no editable
+jun 03, 2020 4:22:58 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:23:15 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 03, 2020 4:23:16 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el anterior registro.
+jun 03, 2020 4:23:17 PM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Steam_ID:[1]
+jun 03, 2020 4:23:25 PM steam.controller.SteamController onClickGuardar
+INFORMACIÓN: FINE, Steam_ID:[1]-> Registro actualizado correctamente
+jun 03, 2020 4:23:25 PM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Steam_ID:[1]
+jun 03, 2020 4:23:27 PM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el anterior registro.
+jun 03, 2020 4:23:27 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:26:45 PM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 03, 2020 4:27:43 PM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 03, 2020 4:27:43 PM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 03, 2020 4:27:43 PM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 03, 2020 4:27:45 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:46 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:46 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:46 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:46 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:47 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:47 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:47 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:47 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:47 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:47 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:48 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:48 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:48 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:48 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:48 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:48 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:49 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:49 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:49 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 03, 2020 4:27:49 PM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 03, 2020 4:28:26 PM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 04, 2020 10:00:06 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:00:06 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:00:06 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:00:09 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:00:09 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:00:09 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:00:25 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:00:25 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:00:25 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:02:30 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:02:31 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 04, 2020 10:02:33 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:02:33 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:02:33 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:02:37 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 04, 2020 10:27:41 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:27:41 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:27:41 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:27:44 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:27:44 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:27:45 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:27:47 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:27:47 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:27:47 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:27:48 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:27:49 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:27:49 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:27:49 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:29:14 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:29:14 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:29:14 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:29:16 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:29:16 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:29:16 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:29:17 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:29:19 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:29:19 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:29:19 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:29:19 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:29:20 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:29:21 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:29:21 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:29:21 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:29:23 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:29:24 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:29:24 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 04, 2020 10:29:24 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 04, 2020 10:29:25 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:29:25 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:29:29 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:29:29 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:29:29 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:29:32 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:29:32 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:29:32 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:29:33 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:29:35 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:29:35 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:29:35 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:29:36 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:29:37 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:29:37 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:29:37 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:29:38 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:29:38 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:29:38 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:29:39 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:29:39 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:29:39 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:29:40 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:29:40 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:29:40 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:29:42 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:29:42 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:29:42 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:00 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:00 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:00 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:02 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:02 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:02 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:04 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:04 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:04 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:11 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:11 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:11 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:12 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:12 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:12 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:12 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:12 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:12 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:13 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:13 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:13 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:13 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:13 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:13 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:13 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:13 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:13 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:14 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:14 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:14 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:15 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:30:15 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:30:15 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 04, 2020 10:30:16 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:16 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:16 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:38 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:38 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:38 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:49 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:49 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:49 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:51 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:30:51 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:30:52 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 04, 2020 10:30:52 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 04, 2020 10:30:52 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:30:53 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:53 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:53 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:54 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:54 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:54 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:30:55 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:30:55 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:30:55 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:31:07 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:31:07 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:31:07 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:31:10 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:31:10 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:31:10 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:31:11 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:31:11 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:31:11 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:31:12 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:31:12 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:31:14 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:31:14 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:31:14 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:32:37 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 04, 2020 10:32:57 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:32:57 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:32:57 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:33:05 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 04, 2020 10:33:54 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:33:54 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:33:54 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:33:56 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 04, 2020 10:39:55 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:39:55 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:39:55 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:39:56 AM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Steam_ID:[5]
+jun 04, 2020 10:39:58 AM steam.controller.SteamController onClickCancelar
+INFORMACIÓN: CANCELED, Steam_ID:[5]-> Cancelado por el usuario.
+jun 04, 2020 10:39:58 AM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Steam_ID:[5]
+jun 04, 2020 10:39:59 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:39:59 AM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Steam_ID:[1]
+jun 04, 2020 10:40:00 AM steam.controller.SteamController onClickCancelar
+INFORMACIÓN: CANCELED, Steam_ID:[1]-> Cancelado por el usuario.
+jun 04, 2020 10:40:00 AM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Steam_ID:[1]
+jun 04, 2020 10:40:01 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:40:01 AM steam.controller.SteamController onClickEditar
+INFORMACIÓN: UPDATE, Steam_ID:[2]
+jun 04, 2020 10:40:01 AM steam.controller.SteamController onClickEditar
+ADVERTENCIA: ERROR, Steam_ID:[2]-> registro no editable
+jun 04, 2020 10:40:09 AM steam.controller.SteamController setOrderByID
+INFORMACIÓN: ORDENACIÓN, Steam_ID:[3]-> Se ha ordenado el catálogo por ID.
+jun 04, 2020 10:40:09 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el primer registro.
+jun 04, 2020 10:40:28 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:40:29 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el anterior registro.
+jun 04, 2020 10:40:31 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 04, 2020 10:40:31 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:40:31 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:40:31 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 04, 2020 10:41:14 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:41:14 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:41:14 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el primer registro.
+jun 04, 2020 10:42:21 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:44:18 AM steam.controller.SteamController onClickNuevo
+INFORMACIÓN: CREATE, Steam_ID:[2]
+jun 04, 2020 10:44:18 AM steam.controller.SteamController onClickCancelar
+INFORMACIÓN: CANCELED, Steam_ID:[2]-> Cancelado por el usuario.
+jun 04, 2020 10:44:18 AM steam.controller.SteamController showOnGuardarOrCancelar
+INFORMACIÓN: READ, Steam_ID:[2]
+jun 04, 2020 10:46:48 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:46:48 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:46:48 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el primer registro.
+jun 04, 2020 10:46:50 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:46:50 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:46:50 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el primer registro.
+jun 04, 2020 10:46:54 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:46:54 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:46:54 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el primer registro.
+jun 04, 2020 10:46:59 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 04, 2020 10:48:40 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:48:40 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:48:40 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:48:43 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:48:43 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:48:43 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:48:48 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:48:48 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:48:48 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:48:50 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:48:51 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 04, 2020 10:48:51 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:48:52 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 04, 2020 10:48:52 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:48:53 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el anterior registro.
+jun 04, 2020 10:48:54 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el anterior registro.
+jun 04, 2020 10:48:54 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 04, 2020 10:48:54 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:48:55 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:48:55 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 04, 2020 10:48:56 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el anterior registro.
+jun 04, 2020 10:48:57 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:48:57 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:48:57 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:48:59 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:48:59 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:48:59 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 04, 2020 10:49:01 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:49:01 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:49:01 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:49:02 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:49:02 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:49:02 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el siguiente registro.
+jun 04, 2020 10:49:05 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 04, 2020 10:49:05 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:49:06 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:49:07 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
+jun 04, 2020 10:53:58 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:53:58 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:53:58 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:54:04 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:54:04 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:54:04 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:54:06 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:54:06 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:54:06 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:54:08 AM steam.controller.SteamController mostrarAnterior
+INFORMACIÓN: READ, Steam_ID:[3]-> Mostrado el anterior registro.
+jun 04, 2020 10:54:09 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el siguiente registro.
+jun 04, 2020 10:54:09 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[1]-> Mostrado el siguiente registro.
+jun 04, 2020 10:54:09 AM steam.controller.SteamController mostrarSiguiente
+INFORMACIÓN: READ, Steam_ID:[2]-> Mostrado el siguiente registro.
+jun 04, 2020 10:54:10 AM steam.controller.SteamController initialize
+INFORMACIÓN: Programa iniciado.
+jun 04, 2020 10:54:10 AM steam.controller.SteamController cargarCatalogo
+INFORMACIÓN: Catálogo iniciado correctamente.
+jun 04, 2020 10:54:10 AM steam.controller.SteamController mostarPrimero
+INFORMACIÓN: READ, Steam_ID:[5]-> Mostrado el primer registro.
+jun 04, 2020 10:54:12 AM steam.Main$1 handle
+INFORMACIÓN: Programa cerrado.
